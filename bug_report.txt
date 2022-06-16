@@ -1,0 +1,8 @@
+#1) Bug Number/id.
+#2) Bug Title.
+#3) Priority.
+#4) Platform/Environment.
+#5) Description.
+#6) Steps to Reproduce.
+#7) Expected and Actual Result.
+#8) Attachments
