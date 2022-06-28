@@ -11,7 +11,7 @@
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
 	git checkout bug_reports 
 	touch bug_report.txt
-		nano bug_report.txt
+	nano bug_report.txt
 		#1) Bug Number/id.
 		#2) Bug Title.
 		#3) Priority.
