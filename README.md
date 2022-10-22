@@ -9,9 +9,9 @@
 2. Push all branches to an external repository
 `git push origin --all`
 3. In the Bag Reports branch, make a text document with the bug report structure
-`git checkout bug_reports`
-`touch bug_report.txt`
-`nano bug_report.txt`
+- `git checkout bug_reports`
+- `touch bug_report.txt`
+- `nano bug_report.txt`
 1) Bug Number/id.
 2) Bug title.
 3) Priority.
