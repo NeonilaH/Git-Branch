@@ -1,11 +1,11 @@
 1. In the local repository make branches for: Postman, Jmeter, CheckLists, Bug Reports, SQL, Charles, Mobile testing.
-`git branch Postman`
-`git branch Jmeter`
-`git branch CheckLists`
-`git branch bug_reports`
-`git branch SQL`
-`git branch Charles`
-`git branch Mobile_Testing`
+- `git branch Postman`
+- `git branch Jmeter`
+- `git branch CheckLists`
+- `git branch bug_reports`
+- `git branch SQL`
+- `git branch Charles`
+- `git branch Mobile_Testing`
 2. Push all branches to an external repository
 `git push origin --all`
 3. In the Bag Reports branch, make a text document with the bug report structure
