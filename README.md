@@ -34,10 +34,10 @@
 ### 7. In the CheckLists branch, outline the checklist structure.
 - `git checkout CheckLists`
 - `cat >> checklist_template.txt`
-id
-check description
-check status (not run, pass, fail, skipped, blocked)
-comment
+- id
+- check description
+- check status (not run, pass, fail, skipped, blocked)
+- comment
 - `Enter` ---> `Ctrl+C`
 ### 8. Push the structure to the external repository.
 - `git add checklist_template.txt`
