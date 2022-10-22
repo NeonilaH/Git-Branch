@@ -7,7 +7,7 @@
 - `git branch Charles`
 - `git branch Mobile_Testing`
 ### 2. Push all branches to the external repository.
-`git push origin --all`
+- `git push origin --all`
 ### 3. In the Bug Reports branch make a text document with the bug report structure.
 - `git checkout bug_reports`
 - `touch bug_report.txt`
