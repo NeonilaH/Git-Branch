@@ -49,6 +49,6 @@
 - Merge pull request
 - Confirm merge
 - Pull request successfully merged and closed
-### 10. Synchronize External and Local branches Main
+### 10. Synchronize External and Local branches Main.
 - `git fetch`
-- `git-pull`
+- `git pull`
