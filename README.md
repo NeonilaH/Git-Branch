@@ -20,7 +20,7 @@
 6) Steps to Reproduce.
 7) Expected and Actual Result.
 8) Attachments.
-`Ctrl+O` ---> `Enter` ---> `Ctrl+X`
+- `Ctrl+O` ---> `Enter` ---> `Ctrl+X`
 4. Push the bug report structure to the external repository.
 - `git add bug_report.txt`
 - `git commit -m "add bug report template txt file"`
