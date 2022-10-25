@@ -1,4 +1,4 @@
-### 1. In the local repository make branches for: Postman, Jmeter, CheckLists, Bug Reports, SQL, Charles, Mobile testing.
+#### 1. In the local repository make branches for: Postman, Jmeter, CheckLists, Bug Reports, SQL, Charles, Mobile testing.
 - `git branch Postman`
 - `git branch Jmeter`
 - `git branch CheckLists`
@@ -6,9 +6,9 @@
 - `git branch SQL`
 - `git branch Charles`
 - `git branch Mobile_Testing`
-### 2. Push all branches to the external repository.
+#### 2. Push all branches to the external repository.
 - `git push origin --all`
-### 3. In the Bug Reports branch make a text document with the bug report structure.
+#### 3. In the Bug Reports branch make a text document with the bug report structure.
 - `git checkout bug_reports`
 - `touch bug_report.txt`
 - `nano bug_report.txt`
@@ -23,17 +23,17 @@
 8) Attachments.
 ```
 - `Ctrl+O` ---> `Enter` ---> `Ctrl+X`
-### 4. Push the bug report structure to the external repository.
+#### 4. Push the bug report structure to the external repository.
 - `git add bug_report.txt`
 - `git commit -m "add bug report template txt file"`
 - `git push --set-upstream origin bug_reports`
-### 5. Merge the Bug Reports branch into Main.
+#### 5. Merge the Bug Reports branch into Main.
 - `git checkout main`
 - `git merge bug_reports`
-### 6. Push main to external repository.
+#### 6. Push main to external repository.
 - `git status`
 - `git push`
-### 7. In the CheckLists branch, outline the checklist structure.
+#### 7. In the CheckLists branch, outline the checklist structure.
 - `git checkout CheckLists`
 - `cat >> checklist_template.txt`
 ```
@@ -43,16 +43,16 @@
  comment
 ```
 - `Enter` ---> `Ctrl+C`
-### 8. Push the structure to the external repository.
+#### 8. Push the structure to the external repository.
 - `git add checklist_template.txt`
 - `git commit -m "add checklist txt file"`
 - `git push --set-upstream origin CheckLists`
-### 9. In the external repository make a Pull Request of the CheckLists branch to main Merge.
+#### 9. In the external repository make a Pull Request of the CheckLists branch to main Merge.
 - Compare and pull request
 - Create pull request
 - Merge pull request
 - Confirm merge
 - Pull request successfully merged and closed
-### 10. Synchronize External and Local branches Main.
+#### 10. Synchronize External and Local branches Main.
 - `git fetch`
 - `git pull`
