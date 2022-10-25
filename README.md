@@ -48,10 +48,10 @@
 - `git commit -m "add checklist txt file"`
 - `git push --set-upstream origin CheckLists`
 #### 9. In the external repository make a Pull Request of the CheckLists branch to main Merge.
-- Compare and pull request
-- Create pull request
-- Merge pull request
-- Confirm merge
+- 'Compare and pull request'
+- 'Create pull request'
+- 'Merge pull request'
+- 'Confirm merge'
 - Pull request successfully merged and closed
 #### 10. Synchronize External and Local branches Main.
 - `git fetch`
